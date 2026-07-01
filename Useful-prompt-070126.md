@@ -1,5 +1,7 @@
 Super, please improve previous design by adding following additional features: Please also adding 3 additional wow ai features to this app. Please make gemini-3.1-flash-lite default model for llm features (user can select other models and modify prompt). Please adding wow visualization effect for llm execution, wow interactive indicators, live log, wow interactive dashbpard with 5 wow graph. Please let user to select light/dark themes, default Traditional CHinese/english. please don't create code and only create a comprehensive technical specification in markdown in 4000 to 5000 words.  
 
+Super, please don't modify code and only create a comprehensive technical specification in markdown in 4000 to 5000 words. Please also adding 3 additional wow ai features to this app. Ending with 20 coprehensive follow up questions. Please fix potential bugs and iterate until get excellent results.
+
 
 Super, please improve previous design by adding following additional features: Please also adding 3 additional wow ai features to this app. please don't create code and only create a comprehensive technical specification in markdown in 4000 to 5000 words. ENding with 20 comprehensive follow up questions
 
